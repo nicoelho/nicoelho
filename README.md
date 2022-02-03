@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Nicolas Coelho
 
-- 🌱 Estudando Python
-
 <div>
   <a href="https://github.com/nicoelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
