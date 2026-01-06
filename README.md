@@ -2,8 +2,8 @@
 ### Desenvolvedor FullStack 🚀
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nicoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoelho&layout=compact&langs_count=7&theme=dracula" height="180em" />
 </div>
 
 ---
