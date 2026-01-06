@@ -1,13 +1,6 @@
 # 👩🏻‍💻 Nicolas Coelho
 ### Desenvolvedor FullStack 🚀
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoelho&layout=compact&langs_count=7&theme=dracula" height="180em" />
-</div>
-
----
-
 ### 🖋️ Sobre Mim
 Me chamo **Nicolas Coelho**, tenho 23 anos e sou formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Paulista. Sou apaixonado por tecnologia e games. 🎮
 
