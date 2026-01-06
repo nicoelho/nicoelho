@@ -9,7 +9,7 @@
 ---
 
 ### 🖋️ Sobre Mim
-Me chamo **Nicolas Coelho**, tenho 23 anos e sou formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Paulista. Sou apaixonado por transformar café em código e, nas horas vagas, me perco no mundo dos games. 🎮
+Me chamo **Nicolas Coelho**, tenho 23 anos e sou formado em **Análise e Desenvolvimento de Sistemas** pela Universidade Paulista. Sou apaixonado por tecnologia e games. 🎮
 
 ---
 
